@@ -83,6 +83,7 @@ class Balloon:
 
         if isonBalloon(self.x, self.y, 3*self.a, 3*self.b, pos):
             score += 1
+            self.speed -= 2
             self.reset()
             
     def reset(self):
