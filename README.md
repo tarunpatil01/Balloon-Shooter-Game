@@ -1,8 +1,20 @@
-This is a Repo of my FY year project in which I had made a Balloon shooter game using Pygame.
+This is a repository for my First-Year project—a Balloon Shooter game created using Pygame.
 
-Want to play(run) it in your PC:
-You can use this project and all files by downloading it individually or complete ZIP file 
-ann then paste it in a folder and run the BalloonShooter.py file or BalloonShooter.exe
-and Enkoy playing.
+ℹ️Features:
 
-Remember to open folder in VS code first 
+
+1.Increasing Difficulty: As you pop balloons, the speed of their movement increases, making the game progressively harder.
+
+
+2.Attractive User Interface (UI): The game features a visually appealing UI with vibrant colors, smooth animations, and easy-to-navigate menus, enhancing the overall gaming experience.
+
+
+3.Pause and Restart: The game includes pause and restart functionality, allowing players to take a break or start over at any time.
+
+📝How to Play:
+If you'd like to play the game on your PC, follow these steps:
+
+->Download the project files individually or as a complete ZIP file.
+Extract the files into a folder on your PC.
+Run the BalloonShooter.exe file.
+Enjoy the game!
